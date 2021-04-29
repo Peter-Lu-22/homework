@@ -11,11 +11,11 @@
 ```Java
 public class Class{
     public static void main(String[] args) {
-        System.out.println("swordart Yuuki Asuna");
+        System.out.println("hello world;
     }
 }
 ```
-> first
+> 1
 >> second
 >>> third
 
