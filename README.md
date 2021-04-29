@@ -1,3 +1,3 @@
 # homework
 
-[luwenbo](lwwenbo.md)
+[luwenbo](luwenbo.md)
