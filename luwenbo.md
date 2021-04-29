@@ -39,6 +39,6 @@ table
 
 *ma yi yyds*
 
-~~erciyuanyyds ~~
+~~erciyuanyyds~~
 
 ----
